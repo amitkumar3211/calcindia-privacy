@@ -1,31 +1,29 @@
-# Privacy Policy for GST, EMI & Tax Calculator (CalcIndia)
+Privacy Policy for GST, EMI & Tax Calculator (CalcIndia)
 
-**Last updated:** April 14, 2026
+Last updated: May 12, 2026
 
-CalcIndia ("we", "our", "the app") respects your privacy. This policy explains
-what data the app handles.
+CalcIndia ("we", "our", "the app") respects your privacy. This policy explains what data the app handles.
 
-## Data we collect
-The app does **not** collect, store, or transmit any personal data.
-All calculations are performed locally on your device. We do not use
-analytics, advertising SDKs, or third-party tracking.
+Authentication
+The app requires Google Sign-In to access its features. When you sign in with Google, we receive your name, email address, and profile picture from your Google account. This information is used solely for authentication and to personalize your experience within the app. We do not share this data with third parties.
 
-## Data stored on your device
-The app may save your calculation history and preferences locally
-using your device's storage. This data never leaves your device and
-is removed when you uninstall the app.
+Data we collect
+Apart from the Google Sign-In information described above, the app does not collect or transmit any additional personal data. All calculations are performed locally on your device. We do not use advertising SDKs or third-party tracking.
 
-## Permissions
-The app requests only the permissions necessary for its features
-(e.g., storage for sharing/exporting results).
+Data stored on your device
+The app may save your calculation history and preferences locally using your device's storage. This data never leaves your device and is removed when you uninstall the app.
 
-## Children's privacy
-The app does not knowingly collect any data from anyone, including
-children under 13.
+Payments
+CalcIndia is a paid application. Payment is processed through the Google Play Store. We do not collect or store any payment or billing information directly.
 
-## Changes
-We may update this policy. Any changes will be posted on this page
-with a new "Last updated" date.
+Permissions
+The app requests only the permissions necessary for its features (e.g., internet access for authentication, storage for sharing/exporting results).
 
-## Contact
-For questions, contact: amitkumar326310@gmamil.com
+Children's privacy
+The app does not knowingly collect data from children under 13.
+
+Changes
+We may update this policy. Any changes will be posted on this page with a new "Last updated" date.
+
+Contact
+For questions, contact: amitkumar326310@gmail.com
